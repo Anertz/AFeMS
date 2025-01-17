@@ -39,6 +39,7 @@
 2. 以下をコピペしてターミナルで実行
 ```bash
 git clone https://github.com/Anertz/AFeMS
+cd AFeMS
 (pwd).Path | clip
 ```
 3. Minecraft Laucherを起動
