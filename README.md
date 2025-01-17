@@ -46,7 +46,7 @@ git clone https://github.com/Anertz/FeMS
 > ### 📁 Modsが更新された場合は以下をターミナルで実行してください
 > [Release](https://github.com/Anertz/FeMS/releases)でお知らせします
 > ```bash
-> cd AppData/Roaming/.minecraft
+> cd FeMS
 > git pull
 > ```
 
