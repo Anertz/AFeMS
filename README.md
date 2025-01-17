@@ -40,7 +40,6 @@
 2. 以下をコピペしてターミナルで実行
 ```bash
 git clone https://github.com/Anertz/FEMS
-cp FEMS AppData/Roaming/
 ```
 > [!NOTE]
 > ### 📁 Modsが更新された場合は以下をターミナルで実行してください
