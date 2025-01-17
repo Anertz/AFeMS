@@ -1,5 +1,5 @@
-<h1 align="center"> Fabric enabled Minecraft Server ✨</h1>
-<p align="center">頭文字を取って<b>FeMS</b>！</p>
+<h1> Fabric enabled Minecraft Server ✨</h1>
+頭文字を取って<b>FeMS</b>！可能な限りシンプルかつ簡単にしました！自信あります
 
 > [!CAUTION]
 >  ### ドキュメントはまだ発展途上です！Weekly、いや、Nightlyかもしれません...。
