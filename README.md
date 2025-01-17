@@ -47,12 +47,12 @@ git clone https://github.com/Anertz/AFeMS
 5. `fabric-loader-1.20.1`の・・・から編集をクリック
 
 <p float="left">
-  <img src="https://github.com/Anertz/AFeMS/blob/main/imgs/20250118_05h48m06s_grim.png" width="650" />
+  <img src="https://github.com/Anertz/AFeMS/blob/main/imgs/20250118_05h48m06s_grim.png"/>
 </p>
 
 6. ゲームディレクトリを欄クリックしてControlキー + V
 
-<img src="https://github.com/Anertz/AFeMS/blob/main/imgs/20250118_05h55m51s_grim.png" width="650" />
+<img src="https://github.com/Anertz/AFeMS/blob/main/imgs/20250118_05h55m51s_grim.png"/>
 
 7. 保存して完了です
 
