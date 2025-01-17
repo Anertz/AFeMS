@@ -35,7 +35,7 @@
 2. 以下をコピペしてターミナルで実行
 ```bash
 git clone https://github.com/Anertz/FeMS
-pwd | clip
+(pwd).Path | clip
 ```
 3. Minecraft Laucherを起動
 4. 上の起動構成をクリック
