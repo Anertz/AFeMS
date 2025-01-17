@@ -43,8 +43,17 @@ git clone https://github.com/Anertz/AFeMS
 ```
 3. Minecraft Laucherを起動
 4. 上の起動構成をクリック
-5. `fabric-loader-1.20.1`の・・・から編集をクリック
-6. ゲームディレクトリを欄クリックしてControlキー + V
+
+6. `fabric-loader-1.20.1`の・・・から編集をクリック
+
+<p float="left">
+  <img src="https://github.com/Anertz/AFeMS/blob/main/imgs/20250118_05h48m06s_grim.png" width="600" />
+</p>
+
+8. ゲームディレクトリを欄クリックしてControlキー + V
+
+<img src="https://github.com/Anertz/AFeMS/blob/main/imgs/20250118_05h48m24s_grim.png" width="500" />
+
 
 > [!NOTE]
 > ### 📁 Modsが更新された場合は以下をターミナルで実行してください
