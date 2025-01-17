@@ -21,7 +21,7 @@
 
 以下をインストールしてください
 
-- [Git](https://github.com/git-for-windows/git/releases/latest)
+- [Git](https://github.com/git-for-windows/git/releases/download/v2.47.1.windows.2/Git-2.47.1.2-64-bit.exe)
 - [Fabric](https://fabricmc.net/use/installer/)
 < インストール時に、Minecraft v1.20.1を選択！
 
