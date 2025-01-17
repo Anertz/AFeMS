@@ -9,7 +9,7 @@
 - Fabric API
 - Create 0.5.1
 - Iris
-- indium
+- Indium
 - 軽量化mod
   - Sodium
   - ImmediatelyFast
