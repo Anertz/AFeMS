@@ -39,8 +39,9 @@
 1. Windowsキー + Rを押し、`powershell`と入力してターミナルを起動
 2. 以下をコピペしてターミナルで実行
 ```bash
+mkdir AppData/Roaming/.minecraft-fabric
 git clone https://github.com/Anertz/.minecraft
-cp .minecraft AppData/Roaming
+cp .minecraft AppData/Roaming/.minecraft-fabric
 ```
 > [!NOTE]
 > ### 📁 Modsが更新された場合は以下をターミナルで実行してください
