@@ -31,7 +31,7 @@
 
 # 🚀 Modsのインストール
 
-> [!Important]
+> [!Warning]
 > ### 以前から遊んでた人は競合の可能性があります！
 > 新しくMod用のフォルダーを作って、Minecraft Launcherで変更するなどを行ってください
 
