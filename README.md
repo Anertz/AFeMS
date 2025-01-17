@@ -14,7 +14,7 @@
 - Create 0.5.1
 - Iris
 - Indium
-- 軽量化mod
+- 軽量化Mods
   - Sodium
   - ImmediatelyFast
   - Lithium
