@@ -22,6 +22,7 @@
 
 - [Git](https://github.com/git-for-windows/git/releases/latest)
 - [Fabric](https://fabricmc.net/use/installer/)
+< インストール時に、Minecraft v1.20.1を選択！
 
 >  [!TIP]
 > ### もしかして上級者のマインクラフターですか...！？
