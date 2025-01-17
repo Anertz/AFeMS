@@ -1,5 +1,5 @@
-<h1 align="center"> Fabric Enabled Minecraft Server ✨</h1>
-<p align="center">頭文字を取って<b>FEMS</b>！</p>
+<h1 align="center"> Fabric enabled Minecraft Server ✨</h1>
+<p align="center">頭文字を取って<b>FeMS</b>！</p>
 
 > [!CAUTION]
 >  ### ドキュメントはまだ発展途上です！Weekly、いや、Nightlyかもしれません...。
@@ -34,7 +34,7 @@
 1. Windowsキー + Rを押し、`powershell`と入力してターミナルを起動
 2. 以下をコピペしてターミナルで実行
 ```bash
-git clone https://github.com/Anertz/FEMS
+git clone https://github.com/Anertz/FeMS
 pwd | clip
 ```
 3. Minecraft Laucherを起動
@@ -44,7 +44,7 @@ pwd | clip
 
 > [!NOTE]
 > ### 📁 Modsが更新された場合は以下をターミナルで実行してください
-> [Release](https://github.com/Anertz/.minecraft/releases)でお知らせします
+> [Release](https://github.com/Anertz/FeMS/releases)でお知らせします
 > ```bash
 > cd AppData/Roaming/.minecraft
 > git pull
