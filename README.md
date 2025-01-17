@@ -36,7 +36,7 @@
 > 新しくMod用のフォルダーを作って、Minecraft Launcherで変更するなどを行ってください
 
 
-1. Windowsキー + Rを押し、`cmd`と入力してターミナルを起動
+1. Windowsキー + Rを押し、`powershell`と入力してターミナルを起動
 2. 以下をコピペしてターミナルで実行
 ```bash
 git clone https://github.com/Anertz/.minecraft
