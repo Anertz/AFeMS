@@ -36,13 +36,12 @@
 # 🚀 Modsのインストール
 
 1. Windowsキー + Rを押し、`powershell`と入力してターミナルを起動
-2. 以下をコピペしてターミナルで実行
+2. 以下をコピペしてターミナルでEnterキーで実行
 ```bash
-git clone https://github.com/Anertz/AFeMS
-cd AFeMS
-(pwd).Path | clip
-echo "ModsのインストールとPathのコピーが完了しました"
+git clone https://github.com/Anertz/AFeMS | cd AFeMS | (pwd).Path | clip | echo "ModsのインストールとPathのコピーが完了しました"
 ```
+`ModsのインストールとPathのコピーが完了しました`と表示されればOKです
+
 3. Minecraft Laucherを起動
 4. 上の起動構成をクリック
 
@@ -63,8 +62,7 @@ echo "ModsのインストールとPathのコピーが完了しました"
 > ### 📁 Modsが更新された場合は以下をターミナルで実行してください
 > [Release](https://github.com/Anertz/AFeMS/releases)でお知らせします
 > ```bash
-> cd AFeMS
-> git pull
+> cd AFeMS | git pull
 > ```
 
 # ✅ 準備はすべて完了です！
