@@ -24,7 +24,9 @@
 - Appleskin
 - Architectury
 - Controlling
-- FTB-Ultimine
+  - Searchables
+- FTB Ultimine
+  - FTB Library
 - IronChests
 - JEI
 - Journeymap
