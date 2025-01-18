@@ -31,7 +31,11 @@
 - JEI
 - Journeymap
 - Storagebox
-
+- Continuity
+- Modmenu
+- Zoomify
+  - Yet Another Config Lib
+  - Fabric Language Kotlin
 
 # ⚙️ 準備
 
