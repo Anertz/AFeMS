@@ -54,9 +54,9 @@ git clone https://github.com/Anertz/AFeMS | cd AFeMS | (pwd).Path | clip | echo 
 
 6. ゲームディレクトリを欄クリックしてControlキー + V
 
-<img src="https://github.com/Anertz/AFeMS/blob/main/imgs/20250118_05h55m51s_grim.png"/>
+<img src="https://github.com/Anertz/AFeMS/blob/main/imgs/20250118_17h50m55s_grim.png"/>
 
-7. `C:\Users\XXXXX\AFeMS`になっていることを確認して、保存して完了です
+7. `C:\Users\<自分のユーザー名>\AFeMS`になっていることを確認して、保存して完了です
 
 
 > [!NOTE]
