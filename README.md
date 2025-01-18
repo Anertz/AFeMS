@@ -21,6 +21,15 @@
   - Lithium
   - Entityculling
   - Modernfix
+- Appleskin
+- Architectury
+- Controlling
+- FTB-Ultimine
+- IronChests
+- JEI
+- Journeymap
+- Storagebox
+
 
 # ⚙️ 準備
 
