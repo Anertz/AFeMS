@@ -6,7 +6,8 @@
 >  可能な限りシンプルかつ分かりやすくしました！自信あります</p>
 
 > [!WARNING]
->  ### ドキュメントはまだ発展途上です！Weekly、いや、Nightlyかもしれません...。
+> ### ドキュメントはまだ発展途上です！Weekly、いや、Nightlyかもしれません...。
+> ### Windows11 64bit のみ動作を保証します
 > 動作しなかったら教えてくださいね！！
 
 # 📜 導入済Mods
@@ -26,6 +27,7 @@
 以下をインストールしてください
 
 - [Git](https://github.com/git-for-windows/git/releases/download/v2.47.1.windows.2/Git-2.47.1.2-64-bit.exe)
+< そのままいじらないで進めてくださいcd AFeMS | git pull
 - [Fabric](https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.exe)
 < インストール時に、Minecraft v1.20.1を選択
 
@@ -44,7 +46,6 @@ git clone https://github.com/Anertz/AFeMS | cd AFeMS | (pwd).Path | clip | echo 
 
 3. Minecraft Laucherを起動
 4. 上の起動構成をクリック
-
 5. `fabric-loader-1.20.1`の・・・から編集をクリック
 
 <p float="left">
@@ -55,7 +56,7 @@ git clone https://github.com/Anertz/AFeMS | cd AFeMS | (pwd).Path | clip | echo 
 
 <img src="https://github.com/Anertz/AFeMS/blob/main/imgs/20250118_05h55m51s_grim.png"/>
 
-7. 保存して完了です
+7. `C:\Users\XXXXX\AFeMS`になっていることを確認して、保存して完了です
 
 
 > [!NOTE]
