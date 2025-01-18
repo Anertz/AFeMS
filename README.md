@@ -41,6 +41,7 @@
 git clone https://github.com/Anertz/AFeMS
 cd AFeMS
 (pwd).Path | clip
+echo "ModsのインストールとPathのコピーが完了しました"
 ```
 3. Minecraft Laucherを起動
 4. 上の起動構成をクリック
