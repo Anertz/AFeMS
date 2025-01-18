@@ -68,4 +68,4 @@ git clone https://github.com/Anertz/AFeMS | cd AFeMS | (pwd).Path | clip | echo 
 
 # ✅ 準備はすべて完了です！
 ### `Suginomoto`にお願いして、サーバーのアドレスを聞き、ホワイトリストに追加してもらいましょう！
-何か不明点、不具合があったなら遠慮なく管理者に問い合わせてください。忙しくない限り対応します。
+何か不明点、不具合があったなら遠慮なく[issue](https://github.com/Anertz/AFeMS/issues)または管理者に問い合わせてください。忙しくない限り対応します。
