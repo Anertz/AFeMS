@@ -38,7 +38,11 @@
   - Fabric Language Kotlin
 - Twilightforest
 - Movingelevators
+  - SuperMartijn642's Core Lib
+  - SuperMartijn642's Config Lib
 - Botania
+  - Trinkets
+  - Patchouli
 
 # ⚙️ 準備
 
