@@ -15,12 +15,6 @@
 - Create 0.5.1
 - Iris
 - Indium
-- 軽量化Mods
-  - Sodium
-  - ImmediatelyFast
-  - Lithium
-  - Entityculling
-  - Modernfix
 - Appleskin
 - Architectury
 - Controlling
@@ -31,7 +25,6 @@
 - JEI
 - Journeymap
 - Storagebox
-- Continuity
 - Modmenu
 - Zoomify
   - Yet Another Config Lib
@@ -43,6 +36,19 @@
 - Botania
   - Trinkets
   - Patchouli
+- Lambdynamiclights
+- 軽量化/バグ修正Mods
+  - Sodium
+  - ImmediatelyFast
+  - Lithium
+  - Entityculling
+  - Modernfix
+  - Debugify
+  - Enhancedblockentities
+  - Ferritecore
+  - Lazydfu
+  - Moreculling
+    - Cloth config
 
 # ⚙️ 準備
 
