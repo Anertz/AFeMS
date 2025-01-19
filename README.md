@@ -85,6 +85,7 @@
 curl https://raw.githubusercontent.com/Anertz/AFeMS/main/installer.ps1 | iex  
 ```
 `Mods are installed!`と表示されればOKです
+> `Git clone was failed`と表示された場合、再起動してないかGitのインストールが出来ていません
 
 3. Minecraft Laucherを起動
 4. 上の起動構成をクリック
