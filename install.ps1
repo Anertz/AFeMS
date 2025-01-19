@@ -1,4 +1,5 @@
 $OutputEncoding = [System.Text.Encoding]::UTF8
+chcp 65001
 git clone https://github.com/Anertz/AFeMS
 if (Test-Path "AFeMS") {
     cd AFeMS
