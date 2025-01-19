@@ -74,10 +74,7 @@
 1. Windowsキー + Rを押し、`powershell`と入力してターミナルを起動
 2. 以下をコピペしてターミナルでEnterキーで実行
 ```bash
-git clone https://github.com/Anertz/AFeMS
-cd AFeMS
-(pwd).Path | clip
-echo "ModsのインストールとPathのコピーが完了しました"
+git clone https://github.com/Anertz/AFeMS; cd AFeMS; (pwd).Path | clip; echo "ModsのインストールとPathのコピーが完了しました"
 ```
 `ModsのインストールとPathのコピーが完了しました`と表示されればOKです
 
