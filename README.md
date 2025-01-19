@@ -76,7 +76,7 @@
 1. Windowsキー + Rを押し、`powershell`と入力してターミナルを起動
 2. 以下をコピペしてターミナルでEnterキーで実行
 ```bash
-git clone https://github.com/Anertz/AFeMS; cd AFeMS; (pwd).Path | clip; echo "ModsのインストールとPathのコピーが完了しました"
+curl https://raw.githubusercontent.com/Anertz/AFeMS/main/AFeMS-installer.ps1 | iex  
 ```
 `ModsのインストールとPathのコピーが完了しました`と表示されればOKです
 
@@ -85,12 +85,12 @@ git clone https://github.com/Anertz/AFeMS; cd AFeMS; (pwd).Path | clip; echo "Mo
 5. `fabric-loader-1.20.1`の・・・から編集をクリック
 
 <p float="left">
-  <img src="https://github.com/Anertz/AFeMS/blob/main/imgs/20250118_05h48m06s_grim.png"/>
+  <img src="https://raw.githubusercontent.com/Anertz/AFeMS/main/imgs/20250118_05h48m06s_grim.png"/>
 </p>
 
 6. ゲームディレクトリを欄クリックしてControlキー + V
 
-<img src="https://github.com/Anertz/AFeMS/blob/main/imgs/20250118_17h50m55s_grim.png"/>
+<img src="https://raw.githubusercontent.com/Anertz/AFeMS/main/imgs/20250118_17h50m55s_grim.png"/>
 
 7. `C:\Users\<自分のユーザー名>\AFeMS`になっていることを確認して、保存して完了です
 
