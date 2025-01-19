@@ -82,9 +82,9 @@
 1. Windowsキー + Rを押し、`powershell`と入力してターミナルを起動
 2. 以下をコピペしてターミナルでEnterキーで実行
 ```bash
-curl https://raw.githubusercontent.com/Anertz/AFeMS/main/AFeMS-installer.ps1 | iex  
+curl https://raw.githubusercontent.com/Anertz/AFeMS/main/installer.ps1 | iex  
 ```
-`ModsのインストールとPathのコピーが完了しました`と表示されればOKです
+`Mods are installed!`と表示されればOKです
 
 3. Minecraft Laucherを起動
 4. 上の起動構成をクリック
