@@ -65,6 +65,8 @@
 - [Fabric](https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.exe)
 < インストール時に、<b>Minecraft v1.20.1</b>を選択
 
+### インストールが終わったら、再起動してください
+
 >  [!TIP]
 > ### もしかして上級者のマインクラフターですか...！？
 > 言うなら最初のほうがいいですよね。実はJavaの優れた実装により、LinuxディストリビューションでプレイするとFPSが大きく向上します。Archがとにかくおすすめです。
