@@ -10,7 +10,11 @@
 > ### Windows11 64bit のみ動作を保証します
 > 動作しなかったら教えてくださいね！！
 
+
 # 📜 導入済Mods
+<details>
+<summary>クリックしてすべて表示</summary>
+  
 - Fabric API
 - Create 0.5.1
 - Iris
@@ -55,6 +59,8 @@
   - Dynamic fps
   - Noisium
   - Threadtweak
+  
+  </details>
 
 # ⚙️ 準備
 
