@@ -50,6 +50,11 @@
   - Lazydfu
   - Moreculling
     - Cloth config
+  - BadOptimizations
+  - Concurrent Chunk Management Engine
+  - Dynamic fps
+  - Noisium
+  - Threadtweak
 
 # ⚙️ 準備
 
