@@ -39,6 +39,7 @@
 - Lambdynamiclights
 - 軽量化/バグ修正Mods
   - Sodium
+  - Nvidium
   - ImmediatelyFast
   - Lithium
   - Entityculling
