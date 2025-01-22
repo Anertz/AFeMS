@@ -28,7 +28,8 @@
 - [Fabric](https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.exe)
 < インストール時に、<b>Minecraft v1.20.1</b>を選択
 
-### インストールが終わったら、再起動してください
+> [!IMPORTANT]
+> ### インストールが終わったら、再起動してください
 
 
 
@@ -40,6 +41,8 @@
 curl https://raw.githubusercontent.com/Anertz/AFeMS/main/installer.ps1 | iex  
 ```
 `Mods are installed!`と表示されればOKです
+
+> [!WARNING]
 > `Git clone was failed`と表示された場合、再起動してないかGitのインストールが出来ていません
 
 3. Minecraft Laucherを起動
