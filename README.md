@@ -12,55 +12,7 @@
 
 
 # 📜 導入済Mods
-<details>
-<summary>クリックしてすべて表示</summary>
-  
-- Fabric API
-- Create 0.5.1
-- Iris
-- Indium
-- Appleskin
-- Architectury
-- Controlling
-  - Searchables
-- FTB Ultimine
-  - FTB Library
-- IronChests
-- JEI
-- Journeymap
-- Storagebox
-- Modmenu
-- Zoomify
-  - Yet Another Config Lib
-  - Fabric Language Kotlin
-- Twilightforest
-- Movingelevators
-  - SuperMartijn642's Core Lib
-  - SuperMartijn642's Config Lib
-- Botania
-  - Trinkets
-  - Patchouli
-- Lambdynamiclights
-- 軽量化/バグ修正Mods
-  - Sodium
-  - Nvidium
-  - ImmediatelyFast
-  - Lithium
-  - Entityculling
-  - Modernfix
-  - Debugify
-  - Enhancedblockentities
-  - Ferritecore
-  - Lazydfu
-  - Moreculling
-    - Cloth config
-  - BadOptimizations
-  - Concurrent Chunk Management Engine
-  - Dynamic fps
-  - Noisium
-  - Threadtweak
-  
-  </details>
+[ここ](https://github.com/Anertz/AFeMS/tree/main/mods)をクリック
 
 # ⚙️ 準備
 
