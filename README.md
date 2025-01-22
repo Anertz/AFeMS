@@ -11,7 +11,8 @@
 > - 電源設定からパフォーマンスを優先
 > ### ここからは上級者のマインクラフター専用です...
 > - JavaのランタイムをGraalvmのエンタープライズ版に変更
-> > Oracleアカウントが必要です 
+> > - [Linux](https://download.oracle.com/otn/utilities_drivers/oracle-labs/graalvm-ee-java17-linux-amd64-21.3.13.tar.gz)
+> > - [Windows](https://download.oracle.com/otn/utilities_drivers/oracle-labs/graalvm-ee-java17-windows-amd64-21.3.13.zip)
 > - Linux ディストリビューションを使う
 > ### 確実にFPSが向上します！
 
