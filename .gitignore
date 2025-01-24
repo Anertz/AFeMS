@@ -603,3 +603,157 @@ journeymap/data/mp/Minecraft~_73149abb~e4b1~45e7~8ba5~82e1dda1650a/overworld/top
 journeymap/data/mp/Minecraft~_73149abb~e4b1~45e7~8ba5~82e1dda1650a/overworld/topo/cache/r.0.-1.mca
 journeymap/data/mp/Minecraft~_73149abb~e4b1~45e7~8ba5~82e1dda1650a/overworld/topo/cache/r.0.0.mca
 journeymap/data/mp/Minecraft~_73149abb~e4b1~45e7~8ba5~82e1dda1650a/overworld/topo/cache/r.0.1.mca
+config/ad_astra-client.jsonc
+config/ad_astra.jsonc
+config/jei/world/local/________1/bookmarks.ini
+journeymap/data/mp/Minecraft~_73149abb~e4b1~45e7~8ba5~82e1dda1650a/overworld/4/cache/r.0.1.mca
+journeymap/data/mp/Minecraft~_73149abb~e4b1~45e7~8ba5~82e1dda1650a/overworld/4/cache/r.1.-1.mca
+journeymap/data/mp/Minecraft~_73149abb~e4b1~45e7~8ba5~82e1dda1650a/overworld/5/-1,0.png
+journeymap/data/mp/Minecraft~_73149abb~e4b1~45e7~8ba5~82e1dda1650a/overworld/5/cache/r.-1.0.mca
+journeymap/data/sp/新規ワールド (1)/addon-data/createoreexcavation/veins.json
+journeymap/data/sp/新規ワールド (1)/overworld/3/-1,-1.png
+journeymap/data/sp/新規ワールド (1)/overworld/3/-1,0.png
+journeymap/data/sp/新規ワールド (1)/overworld/3/0,-1.png
+journeymap/data/sp/新規ワールド (1)/overworld/3/0,0.png
+journeymap/data/sp/新規ワールド (1)/overworld/3/cache/r.-1.-1.mca
+journeymap/data/sp/新規ワールド (1)/overworld/3/cache/r.-1.0.mca
+journeymap/data/sp/新規ワールド (1)/overworld/3/cache/r.0.-1.mca
+journeymap/data/sp/新規ワールド (1)/overworld/3/cache/r.0.0.mca
+journeymap/data/sp/新規ワールド (1)/overworld/biome/-1,-1.png
+journeymap/data/sp/新規ワールド (1)/overworld/biome/-1,0.png
+journeymap/data/sp/新規ワールド (1)/overworld/biome/0,-1.png
+journeymap/data/sp/新規ワールド (1)/overworld/biome/0,0.png
+journeymap/data/sp/新規ワールド (1)/overworld/cache/r.-1.-1.mca
+journeymap/data/sp/新規ワールド (1)/overworld/cache/r.-1.0.mca
+journeymap/data/sp/新規ワールド (1)/overworld/cache/r.0.-1.mca
+journeymap/data/sp/新規ワールド (1)/overworld/cache/r.0.0.mca
+journeymap/data/sp/新規ワールド (1)/overworld/day/-1,-1.png
+journeymap/data/sp/新規ワールド (1)/overworld/day/-1,0.png
+journeymap/data/sp/新規ワールド (1)/overworld/day/0,-1.png
+journeymap/data/sp/新規ワールド (1)/overworld/day/0,0.png
+journeymap/data/sp/新規ワールド (1)/overworld/night/-1,-1.png
+journeymap/data/sp/新規ワールド (1)/overworld/night/-1,0.png
+journeymap/data/sp/新規ワールド (1)/overworld/night/0,-1.png
+journeymap/data/sp/新規ワールド (1)/overworld/night/0,0.png
+journeymap/data/sp/新規ワールド (1)/overworld/topo/-1,-1.png
+journeymap/data/sp/新規ワールド (1)/overworld/topo/-1,0.png
+journeymap/data/sp/新規ワールド (1)/overworld/topo/0,-1.png
+journeymap/data/sp/新規ワールド (1)/overworld/topo/0,0.png
+journeymap/data/sp/新規ワールド (1)/overworld/topo/cache/r.-1.-1.mca
+journeymap/data/sp/新規ワールド (1)/overworld/topo/cache/r.-1.0.mca
+journeymap/data/sp/新規ワールド (1)/overworld/topo/cache/r.0.-1.mca
+journeymap/data/sp/新規ワールド (1)/overworld/topo/cache/r.0.0.mca
+journeymap/server/5.10/journeymap.server.ad_astra~earth_orbit.config
+journeymap/server/5.10/journeymap.server.ad_astra~glacio_orbit.config
+journeymap/server/5.10/journeymap.server.ad_astra~glacio.config
+journeymap/server/5.10/journeymap.server.ad_astra~mars_orbit.config
+journeymap/server/5.10/journeymap.server.ad_astra~mars.config
+journeymap/server/5.10/journeymap.server.ad_astra~mercury_orbit.config
+journeymap/server/5.10/journeymap.server.ad_astra~mercury.config
+journeymap/server/5.10/journeymap.server.ad_astra~moon_orbit.config
+journeymap/server/5.10/journeymap.server.ad_astra~moon.config
+journeymap/server/5.10/journeymap.server.ad_astra~venus_orbit.config
+journeymap/server/5.10/journeymap.server.ad_astra~venus.config
+.fabric/processedMods/javazoom_jlayer-1.0.1-e5a88ebee80169ac.jar
+.fabric/processedMods/team_reborn_energy-3.0.0-55918327dadd95ee.jar
+saves/新規ワールド (1)/level.dat
+saves/新規ワールド (1)/level.dat_old
+saves/新規ワールド (1)/session.lock
+saves/新規ワールド (1)/advancements/992d4d96-a617-40b9-8970-7a17d7b6c926.json
+saves/新規ワールド (1)/data/adastra_planet_data.dat
+saves/新規ワールド (1)/data/cardinal_world_components.dat
+saves/新規ワールド (1)/data/fabricRegistry.dat
+saves/新規ワールド (1)/data/modonomicon_book_states.dat
+saves/新規ワールド (1)/data/movingelevators_elevator_groups.dat
+saves/新規ワールド (1)/data/raids.dat
+saves/新規ワールド (1)/data/random_sequences.dat
+saves/新規ワールド (1)/data/ritchiesprojectilelib_chunk_manager.dat
+saves/新規ワールド (1)/data/scoreboard.dat
+saves/新規ワールド (1)/data/spectrum_pastel_network_manager.dat
+saves/新規ワールド (1)/data/WorldUUID.dat
+saves/新規ワールド (1)/DIM-1/data/cardinal_world_components.dat
+saves/新規ワールド (1)/DIM-1/data/movingelevators_elevator_groups.dat
+saves/新規ワールド (1)/DIM-1/data/raids.dat
+saves/新規ワールド (1)/DIM-1/data/ritchiesprojectilelib_chunk_manager.dat
+saves/新規ワールド (1)/DIM1/data/cardinal_world_components.dat
+saves/新規ワールド (1)/DIM1/data/movingelevators_elevator_groups.dat
+saves/新規ワールド (1)/DIM1/data/raids_end.dat
+saves/新規ワールド (1)/DIM1/data/ritchiesprojectilelib_chunk_manager.dat
+saves/新規ワールド (1)/dimensions/ad_astra/earth_orbit/data/cardinal_world_components.dat
+saves/新規ワールド (1)/dimensions/ad_astra/earth_orbit/data/movingelevators_elevator_groups.dat
+saves/新規ワールド (1)/dimensions/ad_astra/earth_orbit/data/raids.dat
+saves/新規ワールド (1)/dimensions/ad_astra/earth_orbit/data/ritchiesprojectilelib_chunk_manager.dat
+saves/新規ワールド (1)/dimensions/ad_astra/glacio/data/cardinal_world_components.dat
+saves/新規ワールド (1)/dimensions/ad_astra/glacio/data/movingelevators_elevator_groups.dat
+saves/新規ワールド (1)/dimensions/ad_astra/glacio/data/raids.dat
+saves/新規ワールド (1)/dimensions/ad_astra/glacio/data/ritchiesprojectilelib_chunk_manager.dat
+saves/新規ワールド (1)/dimensions/ad_astra/glacio_orbit/data/cardinal_world_components.dat
+saves/新規ワールド (1)/dimensions/ad_astra/glacio_orbit/data/movingelevators_elevator_groups.dat
+saves/新規ワールド (1)/dimensions/ad_astra/glacio_orbit/data/raids.dat
+saves/新規ワールド (1)/dimensions/ad_astra/glacio_orbit/data/ritchiesprojectilelib_chunk_manager.dat
+saves/新規ワールド (1)/dimensions/ad_astra/mars/data/cardinal_world_components.dat
+saves/新規ワールド (1)/dimensions/ad_astra/mars/data/movingelevators_elevator_groups.dat
+saves/新規ワールド (1)/dimensions/ad_astra/mars/data/raids.dat
+saves/新規ワールド (1)/dimensions/ad_astra/mars/data/ritchiesprojectilelib_chunk_manager.dat
+saves/新規ワールド (1)/dimensions/ad_astra/mars_orbit/data/cardinal_world_components.dat
+saves/新規ワールド (1)/dimensions/ad_astra/mars_orbit/data/movingelevators_elevator_groups.dat
+saves/新規ワールド (1)/dimensions/ad_astra/mars_orbit/data/raids.dat
+saves/新規ワールド (1)/dimensions/ad_astra/mars_orbit/data/ritchiesprojectilelib_chunk_manager.dat
+saves/新規ワールド (1)/dimensions/ad_astra/mercury/data/cardinal_world_components.dat
+saves/新規ワールド (1)/dimensions/ad_astra/mercury/data/movingelevators_elevator_groups.dat
+saves/新規ワールド (1)/dimensions/ad_astra/mercury/data/raids.dat
+saves/新規ワールド (1)/dimensions/ad_astra/mercury/data/ritchiesprojectilelib_chunk_manager.dat
+saves/新規ワールド (1)/dimensions/ad_astra/mercury_orbit/data/cardinal_world_components.dat
+saves/新規ワールド (1)/dimensions/ad_astra/mercury_orbit/data/movingelevators_elevator_groups.dat
+saves/新規ワールド (1)/dimensions/ad_astra/mercury_orbit/data/raids.dat
+saves/新規ワールド (1)/dimensions/ad_astra/mercury_orbit/data/ritchiesprojectilelib_chunk_manager.dat
+saves/新規ワールド (1)/dimensions/ad_astra/moon/data/cardinal_world_components.dat
+saves/新規ワールド (1)/dimensions/ad_astra/moon/data/movingelevators_elevator_groups.dat
+saves/新規ワールド (1)/dimensions/ad_astra/moon/data/raids.dat
+saves/新規ワールド (1)/dimensions/ad_astra/moon/data/ritchiesprojectilelib_chunk_manager.dat
+saves/新規ワールド (1)/dimensions/ad_astra/moon_orbit/data/cardinal_world_components.dat
+saves/新規ワールド (1)/dimensions/ad_astra/moon_orbit/data/movingelevators_elevator_groups.dat
+saves/新規ワールド (1)/dimensions/ad_astra/moon_orbit/data/raids.dat
+saves/新規ワールド (1)/dimensions/ad_astra/moon_orbit/data/ritchiesprojectilelib_chunk_manager.dat
+saves/新規ワールド (1)/dimensions/ad_astra/venus/data/cardinal_world_components.dat
+saves/新規ワールド (1)/dimensions/ad_astra/venus/data/movingelevators_elevator_groups.dat
+saves/新規ワールド (1)/dimensions/ad_astra/venus/data/raids.dat
+saves/新規ワールド (1)/dimensions/ad_astra/venus/data/ritchiesprojectilelib_chunk_manager.dat
+saves/新規ワールド (1)/dimensions/ad_astra/venus_orbit/data/cardinal_world_components.dat
+saves/新規ワールド (1)/dimensions/ad_astra/venus_orbit/data/movingelevators_elevator_groups.dat
+saves/新規ワールド (1)/dimensions/ad_astra/venus_orbit/data/raids.dat
+saves/新規ワールド (1)/dimensions/ad_astra/venus_orbit/data/ritchiesprojectilelib_chunk_manager.dat
+saves/新規ワールド (1)/dimensions/arcanuscontinuum/pocket_dimension/data/cardinal_world_components.dat
+saves/新規ワールド (1)/dimensions/arcanuscontinuum/pocket_dimension/data/movingelevators_elevator_groups.dat
+saves/新規ワールド (1)/dimensions/arcanuscontinuum/pocket_dimension/data/raids.dat
+saves/新規ワールド (1)/dimensions/arcanuscontinuum/pocket_dimension/data/ritchiesprojectilelib_chunk_manager.dat
+saves/新規ワールド (1)/dimensions/spectrum/deeper_down/data/cardinal_world_components.dat
+saves/新規ワールド (1)/dimensions/spectrum/deeper_down/data/movingelevators_elevator_groups.dat
+saves/新規ワールド (1)/dimensions/spectrum/deeper_down/data/raids.dat
+saves/新規ワールド (1)/dimensions/spectrum/deeper_down/data/ritchiesprojectilelib_chunk_manager.dat
+saves/新規ワールド (1)/entities/r.-1.-1.mca
+saves/新規ワールド (1)/entities/r.-1.0.mca
+saves/新規ワールド (1)/entities/r.0.-1.mca
+saves/新規ワールド (1)/entities/r.0.0.mca
+saves/新規ワールド (1)/playerdata/992d4d96-a617-40b9-8970-7a17d7b6c926.dat
+saves/新規ワールド (1)/playerdata/992d4d96-a617-40b9-8970-7a17d7b6c926.dat_old
+saves/新規ワールド (1)/poi/r.-1.-1.mca
+saves/新規ワールド (1)/poi/r.-1.0.mca
+saves/新規ワールド (1)/poi/r.-1.1.mca
+saves/新規ワールド (1)/poi/r.0.-1.mca
+saves/新規ワールド (1)/poi/r.0.0.mca
+saves/新規ワールド (1)/poi/r.0.1.mca
+saves/新規ワールド (1)/region/r.-1.-1.mca
+saves/新規ワールド (1)/region/r.-1.0.mca
+saves/新規ワールド (1)/region/r.-1.1.mca
+saves/新規ワールド (1)/region/r.-2.-1.mca
+saves/新規ワールド (1)/region/r.-2.0.mca
+saves/新規ワールド (1)/region/r.-2.1.mca
+saves/新規ワールド (1)/region/r.0.-1.mca
+saves/新規ワールド (1)/region/r.0.0.mca
+saves/新規ワールド (1)/region/r.0.1.mca
+saves/新規ワールド (1)/region/r.1.-1.mca
+saves/新規ワールド (1)/region/r.1.0.mca
+saves/新規ワールド (1)/region/r.1.1.mca
+saves/新規ワールド (1)/serverconfig/ftbultimine-server.snbt
+saves/新規ワールド (1)/stats/992d4d96-a617-40b9-8970-7a17d7b6c926.json
