@@ -5,20 +5,6 @@
 > [!IMPORTANT]
 > ### 可能な限り<b>EASY</b>にしました！自信あります</p>
 
->  [!TIP]
-> ## 📉 ちょっと重いかも？
-> - メモリの割り当てを4G~16Gにする
-> - 電源設定からパフォーマンスを優先
-> ### ここからは上級者のマインクラフター専用です...
-> - JavaのランタイムをGraalvmのエンタープライズ版に変更
-> > - [Linux](https://download.oracle.com/otn/utilities_drivers/oracle-labs/graalvm-ee-java17-linux-amd64-21.3.13.tar.gz)
-> > - [Windows](https://download.oracle.com/otn/utilities_drivers/oracle-labs/graalvm-ee-java17-windows-amd64-21.3.13.zip)
-> > - 以上ができた人は引数に以下を設定 \
-> > ```-XX:+UnlockExperimentalVMOptions -XX:+UseTransparentHugePages w-XX:+UnlockDiagnosticVMOptions -XX:+AlwaysActAsServerClassMachine -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:+UseNUMA -XX:AllocatePrefetchStyle=3 -XX:NmethodSweepActivity=1 -XX:ReservedCodeCacheSize=400M -XX:NonNMethodCodeHeapSize=12M -XX:ProfiledCodeHeapSize=194M -XX:NonProfiledCodeHeapSize=194M -XX:-DontCompileHugeMethods -XX:+PerfDisableSharedMem -XX:+UseFastUnorderedTimeStamps -XX:+UseCriticalJavaThreadPriority -XX:+EagerJVMCI -Dgraal.TuneInlinerExploration=1 -Dgraal.CompilerConfiguration=enterprise```
-> - Linux ディストリビューションを使う
-> ### 確実にFPSが向上します！
-
-
 
 # 📜 導入済Mods
 [ここ](https://github.com/Anertz/AFeMS/tree/main/mods)をクリック
@@ -44,7 +30,7 @@
 ```bash
 curl https://raw.githubusercontent.com/Anertz/AFeMS/main/installer.ps1 | iex  
 ```
-`Mods are installed!`と表示されればOKです
+`Mods are installed!`と表示されたら次に進んでください
 
 > [!WARNING]
 > `Git clone was failed`と表示された場合、再起動してないかGitのインストールが出来ていません
@@ -72,5 +58,5 @@ curl https://raw.githubusercontent.com/Anertz/AFeMS/main/installer.ps1 | iex
 > ```
 
 # ✅ 準備はすべて完了です！
-### `Suginomoto`にお願いして、サーバーのアドレスを聞き、ホワイトリストに追加してもらいましょう！
+### Discordに貼ってあるIPアドレスからサーバーに参加してください！
 何か不明点、不具合があったなら遠慮なく[issues](https://github.com/Anertz/AFeMS/issues)または管理者に問い合わせてください。忙しくない限り対応します。
