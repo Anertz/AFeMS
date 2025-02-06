@@ -43,7 +43,7 @@ curl https://raw.githubusercontent.com/Anertz/AFeMS/main/installer.ps1 | iex
   <img src="https://raw.githubusercontent.com/Anertz/AFeMS/main/imgs/20250118_05h48m06s_grim.png"/>
 </p>
 
-6. ゲームディレクトリを欄クリックしてControlキー + V
+6. ゲームディレクトリ欄をクリックしてControlキー + V
 
 <img src="https://raw.githubusercontent.com/Anertz/AFeMS/main/imgs/20250118_17h50m55s_grim.png"/>
 
