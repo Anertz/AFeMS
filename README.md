@@ -33,7 +33,7 @@ curl https://raw.githubusercontent.com/Anertz/AFeMS/main/installer.ps1 | iex
 `Mods are installed!`と表示されたら次に進んでください
 
 > [!WARNING]
-> `Git clone was failed`と表示された場合、再起動してないかGitのインストールが出来ていません
+> エラーが出た場合は、再起動してないかGitが未インストールです
 
 3. Minecraft Laucherを起動
 4. 上の起動構成をクリック
@@ -59,4 +59,12 @@ curl https://raw.githubusercontent.com/Anertz/AFeMS/main/installer.ps1 | iex
 
 # ✅ 準備はすべて完了です！
 ### Discordに貼ってあるIPアドレスからサーバーに参加してください！
-何か不明点、不具合があったなら遠慮なく[issues](https://github.com/Anertz/AFeMS/issues)または管理者に問い合わせてください。忙しくない限り対応します。
+何か不明点、不具合があったなら遠慮なく[issues](https://github.com/Anertz/AFeMS/issues)または管理者に問い合わせてください。
+
+# 🔥パフォーマンスの最適化
+### すでに多くの最適化Modによって十分に最適化されていますが、以下を試してさらにパフォーマンスを最適化できます。
+- GraalVM Enterprise Editionを以下の引数で起動
+```bash
+-Xms8G -Xmx8G -XX:+UnlockExperimentalVMOptions -XX:+UnlockDiagnosticVMOptions -XX:+AlwaysActAsServerClassMachine -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:+UseNUMA -XX:AllocatePrefetchStyle=3 -XX:NmethodSweepActivity=1 -XX:ReservedCodeCacheSize=400M -XX:NonNMethodCodeHeapSize=12M -XX:ProfiledCodeHeapSize=194M -XX:NonProfiledCodeHeapSize=194M -XX:-DontCompileHugeMethods -XX:+PerfDisableSharedMem -XX:+UseFastUnorderedTimeStamps -XX:+UseCriticalJavaThreadPriority -XX:+EagerJVMCI -Dgraal.TuneInlinerExploration=1 -Dgraal.CompilerConfiguration=enterprise -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:G1NewSizePercent=40 -XX:G1MaxNewSizePercent=50 -XX:G1HeapRegionSize=16M -XX:G1ReservePercent=15 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=20 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true
+```
+- Wayland環境下ではXwaylandの代わりにWaylandで起動(Linux)
