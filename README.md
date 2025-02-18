@@ -61,5 +61,5 @@ curl https://raw.githubusercontent.com/Anertz/AFeMS/main/installer.ps1 | iex
 
 # ✅ 準備はすべて完了です！
 ### Discordに貼ってあるIPアドレスからサーバーに参加してください！
-何か不明点、不具合があったなら遠慮なく[issues](https://github.com/Anertz/AFeMS/issues)または管理者に問い合わせてください。
+何か不明点、不具合があったなら遠慮なく[issues](https://github.com/Anertz/AFeMS/issues)または管理者に問い合わせてください。\
 稼働状況は、[ここ](http://150.230.213.139:3001/status/uptime)から確認できます。
