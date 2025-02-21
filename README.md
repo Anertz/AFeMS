@@ -1,4 +1,4 @@
-<h1> A Fabric enabled Minecraft Server ✨ <img src="http://150.230.213.139:3001/api/badge/1/uptime"> </h1>
+<h1> A Fabric enabled Minecraft Server ✨ <img src="http://141.147.168.103:3001/api/badge/1/uptime"> </h1>
 
 
 
