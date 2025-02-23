@@ -9,13 +9,13 @@
   <img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/cozy/unsupported/quilt_vector.svg">
 </a>
 
-
-
 ### 頭文字を取って<b>AFeMS</b>！
 
 > [!IMPORTANT]
 > ### 可能な限り<b>EASY</b>にしました！自信あります</p>
 
+> [!NOTE]
+> 現在Ampere A1 4oCPU、RAM 24GB、ネットワーク帯域幅4GbpsのAlways Free OCIインスタンスで稼働中
 
 # 📜 導入済Mods
 [クライアント](https://github.com/Anertz/AFeMS/tree/main/mods) /
