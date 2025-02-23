@@ -8,6 +8,16 @@
 <a href="#">
   <img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/cozy/unsupported/quilt_vector.svg">
 </a>
+<a href="#">
+  <img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/cozy/built-with/markdown_vector.svg">
+</a>
+<a href="#">
+  <img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/cozy/built-with/java17_vector.svg">
+</a>
+
+
+
+
 
 ### 頭文字を取って<b>AFeMS</b>！
 
