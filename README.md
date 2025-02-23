@@ -18,7 +18,9 @@
 
 
 # 📜 導入済Mods
-[ここ](https://github.com/Anertz/AFeMS/tree/main/mods)をクリック
+[クライアント](https://github.com/Anertz/AFeMS/tree/main/mods) /
+[サーバー](https://github.com/Anertz/AFeMS-backend/tree/main/mods)
+
 
 # ⚙️ 準備
 
