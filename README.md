@@ -1,6 +1,5 @@
 <h1> A Fabric enabled Minecraft Server ✨ <img src="http://141.147.168.103:3001/api/badge/1/uptime"> </h1>
-<img src="https://cdn.modrinth.com/data/cached_images/6c152554bb3141433b6dca087131f96f00a876ba.png">
-
+<img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg">
 
 ### 頭文字を取って<b>AFeMS</b>！
 
