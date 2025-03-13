@@ -18,7 +18,7 @@
 > ### 可能な限り<b>EASY</b>にしました！自信あります</p>
 
 > [!NOTE]
-> 現在Ampere A1 4oCPU、RAM 24GB、ネットワーク帯域幅4GbpsのAlways Free OCIインスタンスで稼働中
+> Ampere A1 4oCPU、RAM 24GB、ネットワーク帯域幅4GbpsのAlways Free OCIインスタンスで稼働中
 
 # 📜 導入済Mods
 [クライアント](https://github.com/Anertz/AFeMS/tree/main/mods) /
